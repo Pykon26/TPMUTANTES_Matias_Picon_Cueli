@@ -1,0 +1,38 @@
+casos de uso:
+
+1
+
+CATCAT
+GCTCAG
+CGTTAC
+CCTACG
+ACGGGC
+TTATAG
+El ADN ingresado NO corresponde a un mutante
+
+tiene una cadena vertical en la columna 3 con la misma letra (T), no es mutante porque necesita mas de 1 secuencia
+
+
+2:
+
+AGTCGA
+TCACTG
+TTACGT
+AGACGG
+GCGTCA
+TCACTG
+El ADN ingresado NO corresponde a un mutante
+
+No tiene secuencias iguales
+
+3:
+AAAAGA
+CAGTGC
+TTATGT
+AGAAGG
+CCCCTA
+TCACTG
+El ADN ingresado corresponde a un mutante
+
+tiene 4 A en la primer fila y en diagonal
+
